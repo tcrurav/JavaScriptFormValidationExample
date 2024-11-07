@@ -8,23 +8,23 @@
 // DECOMMENT: STEP 5: Create a function which validates the data sent by the form when the user clicks on submit button
 // function validatePersonalDataForm(e) {
 
-//   const name = e.target.name.value;
-//   const surname = e.target.surname.value;
-//   const email = e.target.email.value;
+//   const NAME = e.target.name.value;
+//   const SURNAME = e.target.surname.value;
+//   const EMAIL = e.target.email.value;
 
 //   let valid = true;
 
-//   if (!name) {
+//   if (!NAME) {
 //     document.getElementById("form-name").style.visibility = "visible";
 //     valid = false;
 //   } else document.getElementById("form-name").style.visibility = "hidden";
 
-//   if (!surname) {
+//   if (!SURNAME) {
 //     document.getElementById("form-surname").style.visibility = "visible";
 //     valid = false;
 //   } else document.getElementById("form-surname").style.visibility = "hidden";
 
-//   if (!email) {
+//   if (!EMAIL) {
 //     document.getElementById("form-email").style.visibility = "visible";
 //     valid = false;
 //   } else document.getElementById("form-email").style.visibility = "hidden";
@@ -32,7 +32,7 @@
 //   if (!valid) {
 //     e.preventDefault();
 //   } else {
-//     saveData(name, surname, email);
+//     saveData(NAME, SURNAME, EMAIL);
 //   }
 // }
 
