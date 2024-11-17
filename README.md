@@ -4,7 +4,7 @@ It's just that. A simple example on how to do a form validation with JavaScript.
 
 It's important to note that in this project the data is stored in LocalStorage.
 
-I have used Github pages. See this page online in Github pages: https://tcrurav.github.io/JavaScriptFormValidationExample/
+See this site online in Github pages: https://tcrurav.github.io/JavaScriptFormValidationExample/
 
 ## Getting Started
 
